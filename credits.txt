@@ -1,0 +1,19 @@
+SLOW MORNING COFFEE — ASSET CREDITS
+
+Fictional café concept for ICT2215. Names, prices, opening hours and location descriptions are illustrative.
+
+Photographs downloaded from Unsplash on 5 November 2026:
+coffee-hero.jpg (image identifier: photo-1442512595331-e89e73853f31)
+Direct source: https://images.unsplash.com/photo-1442512595331-e89e73853f31
+cafe.jpg: https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb
+latte.jpg: https://images.unsplash.com/photo-1541167760496-1628856ab772
+croissant.jpg: https://images.unsplash.com/photo-1555507036-ab1f4038808a
+License information: https://unsplash.com/license
+Use the direct image sources above to identify the four assets.
+
+cafe-film.mp4: a custom 12-second, silent photo montage made for this project from the four credited images. 1280 x 720, H.264, 24 fps. Not footage of a real Slow Morning café. The four scenes change every three seconds; player controls provide pause and fullscreen.
+
+Graphical elements: Unicode coffee cup, flower/star and clock characters rendered by the visitor's system fonts. No icon library, JavaScript, web fonts or external runtime services are used.
+
+For Assessment 3, verify photographer names and original photo-page URLs before preparing final APA entries. Do not invent attribution details. Disclose AI assistance according to your lecturer's requirements.
+
